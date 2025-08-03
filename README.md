@@ -6,4 +6,4 @@
 
 ATTENTION: you must to have NPM package manager to run this commands
 
-![Uploading Front faced Gold MacBook.png…]()
+<img src="https://react-tic-tac-toe-game-opal.vercel.app/project-overview.png">
